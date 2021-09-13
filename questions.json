@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "question":"How many sovereign states are there in Europe?",
+        "answers":["48", "50", "52"],
+        "correct":"50"
+    },
+    {   
+        "id": 2,
+        "question":"What's the capital of Sweden?",
+        "answers":["Malmö", "Norrköping", "Stockholm"],
+        "correct":"Stockholm"
+    },
+    {   
+        "id": 3,
+        "question":"???",
+        "answers":["99", "1260", "42"],
+        "correct":"42"
+    }
+]
