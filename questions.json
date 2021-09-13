@@ -1,4 +1,4 @@
-[
+
     {
         "id": 1,
         "question":"How many sovereign states are there in Europe?",
@@ -17,4 +17,3 @@
         "answers":["99", "1260", "42"],
         "correct":"42"
     }
-]
